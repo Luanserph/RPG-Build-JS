@@ -15,23 +15,23 @@ Neste projeto prático, estou criando meu próprio Jogo de Role Playing Game (RP
 
 ## Objetivos
 
-- Eu vou entender como trabalhar com arrays para gerenciar coleções de dados.
-- Eu vou manipular strings para lidar com informações baseadas em texto.
-- Eu vou utilizar objetos para estruturar e organizar dados.
-- Eu vou criar e usar funções para encapsular código reutilizável.
-- Eu vou implementar loops para lidar com tarefas repetitivas.
-- Eu vou aplicar instruções if/else para tomar decisões no meu código.
+- Entender como trabalhar com arrays para gerenciar coleções de dados.
+- Manipular strings para lidar com informações baseadas em texto.
+- Utilizar objetos para estruturar e organizar dados.
+- Criar e usar funções para encapsular código reutilizável.
+- Implementar loops para lidar com tarefas repetitivas.
+- Instruções if/else para tomar decisões no meu código.
 
 ## Começando
 
-1. Eu vou clonar o repositório para minha máquina local.
-2. Eu vou abrir o projeto no meu editor de código preferido.
-3. Eu vou seguir as instruções no código-fonte para completar o projeto.
-4. Eu vou testar meu jogo em um navegador web moderno para garantir que funciona como esperado.
+1. Clonar o repositório para minha máquina local.
+2. Abrir o projeto no meu editor de código preferido.
+3. Seguir as instruções no código-fonte para completar o projeto.
+4. Tstar meu jogo em um navegador web moderno para garantir que funciona como esperado.
 
 ## Contribuindo
 
-Se eu tiver sugestões ou melhorias, eu me sentirei à vontade para abrir uma issue ou enviar um pull request.
+Se tiver sugestões ou melhorias, fique à vontade para enviar um pull request.
 
 Feliz codificação!
 
